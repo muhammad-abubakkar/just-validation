@@ -1,6 +1,6 @@
 {
-  "name": "valigator",
-  "version": "0.0.0",
+  "name": "just-validation",
+  "version": "1.0.0",
   "description": "Simple and easy validation tool for node applications",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhammad-abubakkar/valigator.git"
+    "url": "git+https://github.com/muhammad-abubakkar/just-validation.git"
   },
   "bugs": {
-    "url": "https://github.com/muhammad-abubakkar/valigator/issues"
+    "url": "https://github.com/muhammad-abubakkar/just-validation/issues"
   },
-  "homepage": "https://github.com/muhammad-abubakkar/valigator#readme",
+  "homepage": "https://github.com/muhammad-abubakkar/just-validation#readme",
   "keywords": [
     "validation",
     "validator",

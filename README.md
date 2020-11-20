@@ -1,1 +1,1 @@
-# Valigator
+# Just Validation
