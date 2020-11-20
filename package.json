@@ -1,12 +1,16 @@
 {
   "name": "valigator",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.0",
+  "description": "Simple and easy validation tool for node applications",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "validation",
+    "validator",
+    "form-validation"
+  ],
+  "author": "Abu Bakkar Siddique",
+  "license": "MIT"
 }
